@@ -29,7 +29,7 @@ const IndexPage = () => {
     <Layout disablePaddingBottom>
       {/* Hero Container */}
       <Hero
-        maxWidth={'500px'}
+        maxWidth={'800px'}
         image={'/banner1.jpg'}
         title={'Fashioned with passion, worn with pride.'}
         subtitle={'Discover our latest collection'}
