@@ -31,7 +31,7 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.jpg'}
-        title={'Essentials for a cold winter'}
+        title={'Fashioned with passion, worn with pride.'}
         subtitle={'Discover our latest collection'}
         ctaText={'shop now'}
         ctaAction={goToShop}
